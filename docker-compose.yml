@@ -22,7 +22,7 @@ services:
     volumes:
       - .:/app 
     ports:
-      - "5000:5000"
+      - "5072:5072"
     links:
       - rabbit
       - redis
