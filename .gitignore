@@ -5,5 +5,5 @@ __pycache__
 
 
 app/static/worker-img/*.jpeg
-app/static/worker-img/*.jp
+app/static/worker-img/*.jpg
 app/static/worker-img/*.png
