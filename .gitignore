@@ -2,3 +2,8 @@ __pycache__
 *.pyc
 .idea
 .vscode
+
+
+app/static/worker-img/*.jpeg
+app/static/worker-img/*.jp
+app/static/worker-img/*.png
